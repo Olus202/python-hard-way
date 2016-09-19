@@ -2,7 +2,7 @@
 
 # Assignment the days to a variable 'days'
 days = "Mon Tue Wed Thu Fri Sat Sun"
-# Assignment the months to a variable 'months' - with special 'newline' tag.
+# Assignment the months to a variable 'months' - with escape sequance (newline).
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 # Printing the days.
